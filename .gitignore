@@ -1,0 +1,5 @@
+build
+models
+app.pid
+config.json
+whisper-transcribe.log

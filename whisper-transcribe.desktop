@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=Whisper Transcribe
+Comment=Voice-to-text transcription with system tray control
+Exec=python3 $HOME/.config/whisper-transcribe/whisper-transcribe.py
+Path=$HOME/.config/whisper-transcribe
+Icon=audio-input-microphone
+Terminal=false
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+StartupNotify=false
+Categories=Utility;AudioVideo;
